@@ -25,6 +25,7 @@ for (int i = 0; i < words.Length; i++)
 */
 
 /* TASK3
+ 
 int[] numbers = new int[] { 1, 9, 6, 7, 5, 30, 12, 3, 21, 45 };
 int temp;
 
@@ -40,9 +41,8 @@ for (int i = 0; i < numbers.Length - 1 ; i++)
         }
 
     }
+
+        Console.Write(numbers[i] + " ");    
 }
-for (int i = 0; i < numbers.Length; i++)
-{
-    Console.Write(numbers[i] + " ");
-}
+
 */
