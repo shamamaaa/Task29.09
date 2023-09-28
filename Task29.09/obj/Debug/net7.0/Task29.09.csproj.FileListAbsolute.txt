@@ -1,0 +1,15 @@
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/bin/Debug/net7.0/Task29.09
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/bin/Debug/net7.0/Task29.09.deps.json
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/bin/Debug/net7.0/Task29.09.runtimeconfig.json
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/bin/Debug/net7.0/Task29.09.dll
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/bin/Debug/net7.0/Task29.09.pdb
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/obj/Debug/net7.0/Task29.09.csproj.AssemblyReference.cache
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/obj/Debug/net7.0/Task29.09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/obj/Debug/net7.0/Task29.09.AssemblyInfoInputs.cache
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/obj/Debug/net7.0/Task29.09.AssemblyInfo.cs
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/obj/Debug/net7.0/Task29.09.csproj.CoreCompileInputs.cache
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/obj/Debug/net7.0/Task29.09.dll
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/obj/Debug/net7.0/refint/Task29.09.dll
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/obj/Debug/net7.0/Task29.09.pdb
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/obj/Debug/net7.0/Task29.09.genruntimeconfig.cache
+/Users/shamamaguliyeva/Desktop/Task29.09/Task29.09/obj/Debug/net7.0/ref/Task29.09.dll
